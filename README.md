@@ -1,2 +1,2 @@
 # FinalAssignmentSeptember
-Final assignment for September in the course of Blockchain Technologies
+Final assignment for September in the course of Blockchain Development
